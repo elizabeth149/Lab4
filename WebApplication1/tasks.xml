@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Id>1</Id>
+    <Title>string</Title>
+    <Priority>2</Priority>
+    <Deadline>2023-12-02T07:25:28.737Z</Deadline>
+    <IsCompleted>true</IsCompleted>
+  </Task>
+</ArrayOfTask>
